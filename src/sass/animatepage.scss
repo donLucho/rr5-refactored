@@ -1,0 +1,30 @@
+
+/* .animatepage {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+} */
+
+// .animatepage {background-color: rgb(50, 205, 50); }
+
+.animatepage-enter, .animatepage-appear {
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+.animatepage-enter-active, .animatepage-appear-active {
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 703ms, transform 703ms;
+}
+
+.animatepage-exit {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.animatepage-exit-active {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 703ms, transform 703ms;
+}
