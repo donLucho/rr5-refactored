@@ -2,7 +2,8 @@
 A continuation of a previous demo I have hosted at Gitlab based on the &quot;All About React Router 4&quot; lesson found at css&#45;tricks.com.
 
 ## Please visit
-You can see [the lesson at netlify](https://ghtest-rr5-refactored.netlify.com/ "the lesson at netlify") and decide if this is something for you to play around with at a later date.
+~~You can see [the lesson at netlify](https://ghtest-rr5-refactored.netlify.com/ "the lesson at netlify") and decide if this is something for you to play around with at a later date.~~
+Update (12/23/2025): Somebody who does not appreciate the dangers of handling flawed software through no fault of their own could end up hurting their own best interests (dev-related or otherwise).
 
 ## Why I composed another React Router Project
 It has a few different items than the previous version. I used Create React App in lieu of Webpack. Plus, it utilizes React Transition Group routing animations along with Bootstrap. 
